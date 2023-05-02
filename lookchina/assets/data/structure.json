@@ -1,0 +1,24 @@
+{
+  "screens": [
+    {
+      "id": "intro",
+      "state": "intro"
+    },
+    {
+      "id": "topic1",
+      "state": "topic",
+      "stateId": 1,
+      "data": {
+        "body": "s3_1"
+      }
+    },
+    {
+      "id": "topic2",
+      "state": "topic",
+      "stateId": 2,
+      "data": {
+        "body": "s5_1"
+      }
+    }
+  ]
+}
